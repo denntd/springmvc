@@ -1,0 +1,32 @@
+.col-product{
+	-webkit-box-flex: 0;
+	flex: 0 0 50%;
+	max-width: 20%;
+	position: relative;
+	width: 100%;
+	min-height: 1px;
+}
+
+.img-custom {
+	padding-top: 5%;
+	padding-bottom: 5%;
+  	vertical-align: middle;
+  	border-style: none; 
+}
+
+
+.bg-custom{
+	background-color: #FFFFFF;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+.bg-section-custom{
+	padding-top: 5px;
+	background-color: #F8F8F8;
+}
+
+.card-title-custom{
+	margin-top: 10px;
+}
+  
